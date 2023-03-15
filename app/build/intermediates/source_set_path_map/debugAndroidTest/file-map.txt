@@ -1,0 +1,7 @@
+org.tensorflow.lite.examples.objectdetection.test.app-androidTest-0 C:\Users\basit\AndroidStudioProjects\android_play_services\app\build\generated\res\resValues\androidTest\debug
+org.tensorflow.lite.examples.objectdetection.test.app-androidTest-1 C:\Users\basit\AndroidStudioProjects\android_play_services\app\build\generated\res\rs\androidTest\debug
+org.tensorflow.lite.examples.objectdetection.test.app-mergeDebugAndroidTestResources-2 C:\Users\basit\AndroidStudioProjects\android_play_services\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+org.tensorflow.lite.examples.objectdetection.test.app-mergeDebugAndroidTestResources-3 C:\Users\basit\AndroidStudioProjects\android_play_services\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+org.tensorflow.lite.examples.objectdetection.test.app-merged_res-4 C:\Users\basit\AndroidStudioProjects\android_play_services\app\build\intermediates\merged_res\debugAndroidTest
+org.tensorflow.lite.examples.objectdetection.test.app-androidTest-5 C:\Users\basit\AndroidStudioProjects\android_play_services\app\src\androidTest\res
+org.tensorflow.lite.examples.objectdetection.test.app-androidTestDebug-6 C:\Users\basit\AndroidStudioProjects\android_play_services\app\src\androidTestDebug\res
